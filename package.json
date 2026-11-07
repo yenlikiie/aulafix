@@ -1,0 +1,9 @@
+{
+  "name": "aulafix",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/organizations.test.js",
+    "check": "node scripts/check.js"
+  }
+}
